@@ -1,1 +1,1 @@
-# Program_Amassador_Latinhas
+# contém 3 programas, 1 que é ativado sem a necessidade do acionamento do botão ( para fazer isso basta segurar o botão de amassamento por 5s.) Assim funcionando apenas com os sensores quando ativado. E o outro programa contém o sensor do fim de curso do pistão.
